@@ -6,7 +6,7 @@ you will be exploring a particular geojson file, analyzing the data within, and 
 
 # Chloropeth map showing percentage of Hispanic population using quantiles
 
-![Chloropeth](Dragster.jpg)
+![Chloropeth](https://github.com/nelson-truong/cs136-assignment09/blob/main/images/chloropeth.jpg)
 
 
 
